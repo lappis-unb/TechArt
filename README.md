@@ -4,5 +4,4 @@
 - https://github.com/vibertthio/awesome-machine-learning-art
 
 
-- https://www.springboard.com/blog/improve-ux-with-ai-machine-learning/
-- https://uxdesign.cc/an-intro-to-machine-learning-for-designers-5c74ba100257
+- https://becominghuman.ai/using-machine-learning-in-ui-ux-with-brainjs-d017a0e9c011
